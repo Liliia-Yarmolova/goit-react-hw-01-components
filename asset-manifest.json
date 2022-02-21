@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Liliia-Yarmolova/goit-react-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/Liliia-Yarmolova/goit-react-hw-01-components/static/js/main.3125a1ad.js",
+    "static/js/787.84e13687.chunk.js": "/Liliia-Yarmolova/goit-react-hw-01-components/static/js/787.84e13687.chunk.js",
+    "index.html": "/Liliia-Yarmolova/goit-react-hw-01-components/index.html",
+    "main.7acaea2f.css.map": "/Liliia-Yarmolova/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.3125a1ad.js.map": "/Liliia-Yarmolova/goit-react-hw-01-components/static/js/main.3125a1ad.js.map",
+    "787.84e13687.chunk.js.map": "/Liliia-Yarmolova/goit-react-hw-01-components/static/js/787.84e13687.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.3125a1ad.js"
+  ]
+}
